@@ -1,4 +1,4 @@
-PLAY BIGTWO GAME IN YOUR OWN COMPUTER! 🎭♠️♥️♣️♦️🃏
+PLAY BIG TWO GAME IN YOUR OWN COMPUTER! 🎭♠️♥️♣️♦️🃏
 
 How to run this program?
 1. Download the source code from the folder “sources”. 
